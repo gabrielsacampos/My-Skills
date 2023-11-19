@@ -5,7 +5,7 @@ I'm a backend programmer, transitioning from a nearly 10-year career in managing
 ## My Developer Skills:
 
 - JavaScript / TypeScript
-- Node.js / NestJs
+- Node.js / NestJs / Next.js
 - Queues (BullMQ)
 - JWT Auth
 - API Integrations
