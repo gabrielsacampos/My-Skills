@@ -6,7 +6,7 @@ I'm a backend programmer, transitioning from a nearly 10-year career in managing
 
 - JavaScript / TypeScript
 - Node.js / NestJs / Next.js
-- Queues (BullMQ)
+- Queues (BullMQ / Redis) 
 - JWT Auth
 - API Integrations
 - Unit Tests (Jest)
